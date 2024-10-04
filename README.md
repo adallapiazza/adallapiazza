@@ -7,7 +7,7 @@
 
 **Some of my Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,github,postman,docker,python,r,mysql,javascript,react,nodejs,d3,html,css&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,github,postman,docker,python,r,sqlite,javascript,react,nodejs,d3,html,css&perline=5)](https://skillicons.dev)
 
 
 
