@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Aout me**
+**About me**
 - 💼 Data Scientist & Data Engineer
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m always improving upon my programming abilites
